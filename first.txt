@@ -1,0 +1,7 @@
+this is version 1 of the project
+again i want to change something
+hi there
+i want to commit second time in my git repo
+again modified 
+i have done some changes here
+e
